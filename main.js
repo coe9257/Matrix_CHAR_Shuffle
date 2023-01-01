@@ -114,7 +114,7 @@ const text_timing = 10000;
     
     // const column_inner_width = document.querySelector('.columns').clientWidth 
     const create_div_blocks = function(number, border_color) {
-    
+    const a = 0;
             const array = []
     
             for (let i = 0; i < number; i++) {
